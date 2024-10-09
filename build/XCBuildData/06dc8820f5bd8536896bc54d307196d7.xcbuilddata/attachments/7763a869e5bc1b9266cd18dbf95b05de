@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/mohammadyasin/Desktop/MYLoggerExample/build/Pods.build/Release-iphoneos/MYLogger.build/Objects-normal/arm64/MYLogger-master.swiftconstvalues",
+    "dependencies" : "/Users/mohammadyasin/Desktop/MYLoggerExample/build/Pods.build/Release-iphoneos/MYLogger.build/Objects-normal/arm64/MYLogger-master.d",
+    "diagnostics" : "/Users/mohammadyasin/Desktop/MYLoggerExample/build/Pods.build/Release-iphoneos/MYLogger.build/Objects-normal/arm64/MYLogger-master.dia",
+    "emit-module-dependencies" : "/Users/mohammadyasin/Desktop/MYLoggerExample/build/Pods.build/Release-iphoneos/MYLogger.build/Objects-normal/arm64/MYLogger-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mohammadyasin/Desktop/MYLoggerExample/build/Pods.build/Release-iphoneos/MYLogger.build/Objects-normal/arm64/MYLogger-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mohammadyasin/Desktop/MYLoggerExample/build/Pods.build/Release-iphoneos/MYLogger.build/Objects-normal/arm64/MYLogger-master.swiftdeps"
+  },
+  "/Users/mohammadyasin/Desktop/MYLogger/MYLogger/Logger.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MYLogger.build/Objects-normal/arm64/Logger.o",
+    "llvm-bc" : "/Users/mohammadyasin/Desktop/MYLoggerExample/build/Pods.build/Release-iphoneos/MYLogger.build/Objects-normal/arm64/Logger.bc",
+    "object" : "/Users/mohammadyasin/Desktop/MYLoggerExample/build/Pods.build/Release-iphoneos/MYLogger.build/Objects-normal/arm64/Logger.o"
+  }
+}

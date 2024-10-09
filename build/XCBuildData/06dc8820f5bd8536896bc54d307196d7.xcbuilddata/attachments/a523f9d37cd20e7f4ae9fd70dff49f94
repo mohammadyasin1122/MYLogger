@@ -1,0 +1,6 @@
+framework module Pods_MYLoggerExample {
+  umbrella header "Pods-MYLoggerExample-umbrella.h"
+
+  export *
+  module * { export * }
+}

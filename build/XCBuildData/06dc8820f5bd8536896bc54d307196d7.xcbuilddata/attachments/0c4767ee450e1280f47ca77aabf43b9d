@@ -1,0 +1,5 @@
+ extern const unsigned char MYLoggerVersionString[];
+ extern const double MYLoggerVersionNumber;
+
+ const unsigned char MYLoggerVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:MYLogger  PROJECT:Pods-1" "\n";
+ const double MYLoggerVersionNumber __attribute__ ((used)) = (double)1.;
