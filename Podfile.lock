@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (5.9.1)
+  - MYLogger (0.1.0):
+    - Alamofire (~> 5.0)
+
+DEPENDENCIES:
+  - MYLogger (from `/Users/mohammadyasin/Desktop/MYLogger`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  MYLogger:
+    :path: "/Users/mohammadyasin/Desktop/MYLogger"
+
+SPEC CHECKSUMS:
+  Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  MYLogger: 4bf43edafb4a06459728587940ddad23a31658db
+
+PODFILE CHECKSUM: 8b7fa944a2fae88196e7ddef956c31c0dc287c94
+
+COCOAPODS: 1.15.2

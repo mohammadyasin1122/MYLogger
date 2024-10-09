@@ -1,0 +1,6 @@
+framework module MYLogger {
+  umbrella header "MYLogger-umbrella.h"
+
+  export *
+  module * { export * }
+}

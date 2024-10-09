@@ -1,0 +1,29 @@
+{
+  "name": "MYLogger",
+  "version": "0.1.0",
+  "summary": "A brief description of what MYLogger does.",
+  "homepage": "https://github.com/mohammadyasin234/MYLogger",
+  "license": "MIT",
+  "authors": {
+    "mohammadyasin234": "mohammad.yasinm21@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/mohammadyasin234/MYLogger.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "18.0"
+  },
+  "source_files": "MYLogger/**/*",
+  "public_header_files": "MYLogger/**/*.h",
+  "requires_arc": true,
+  "swift_versions": [
+    "5.0"
+  ],
+  "dependencies": {
+    "Alamofire": [
+      "~> 5.0"
+    ]
+  },
+  "swift_version": "5.0"
+}
